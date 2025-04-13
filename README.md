@@ -12,8 +12,6 @@
 - 📫 Puedes contactarme a: **richardparra.068@gmail.com**
 - 🏠 No olvides mandarme un **👋** en Discord – [ꭱꭵꮯꮋꭺꭱꭰ](https://discord.com/channels/831363654259441666/831363654929612814)
 
----
-
 <h2 align="center">Tecnologías que conozco 👨🏻‍💻</h2>
 
 <p align="center">
@@ -21,8 +19,6 @@
     <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,postgres,express,figma,github,html,java,js,react,kotlin,linux,mysql,nodejs,postman,py,vscode,ps&perline=10" alt="Tech Stack" />
   </a>
 </p>
-
----
 
 <h2 align="center">Conéctate conmigo 🤝</h2>
 
@@ -40,8 +36,6 @@
     <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
   </a>
 </p>
-
----
 
 <div align="center">
   <a href="https://github.com/richardparra99">
