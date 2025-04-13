@@ -37,9 +37,3 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/richardparra99">
-    <img src="https://visitcount.itsvg.in/api?id=richardparra99&icon=3&color=6" alt="Profile Visit Count" />
-  </a>
-</div>
-
