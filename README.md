@@ -10,7 +10,7 @@
 - 🌱 Estoy aprendiendo **Java - Python - Kotlin - MySQL - HTML - CSS - JavaScript - PostgreSQL**
 - ☁️ Me interesa mucho encontrar un **trabajo**
 - 📫 Puedes contactarme a: **richardparra.068@gmail.com**
-- 🏠 No olvides mandarme un **👋** en Discord – [ꭱꭵꮯꮋꭺꭱꭰ](https://discord.com/channels/831363654259441666/831363654929612814)
+- 🏠 No olvides mandarme un **👋** en Discord – [𝕽𝖎𝖈𝖍𝖆𝖗𝖉](https://discord.com/channels/831363654259441666/831363654929612814)
 
 <h2 align="center">Tecnologías que conozco 👨🏻‍💻</h2>
 
