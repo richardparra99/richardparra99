@@ -9,7 +9,7 @@
 <h2 align="center">Tecnologías que conozco 👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,postgres,express,react,angular,nestjs,spring,figma,github,html,java,js,react,kotlin,linux,mysql,nodejs,postman,py,vscode,ps&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,postgres,express,angular,nestjs,spring,figma,github,html,java,js,react,kotlin,linux,mysql,nodejs,postman,py,vscode,ps&perline=6" alt="Tech Stack" />
   </a>
 </p>
 
