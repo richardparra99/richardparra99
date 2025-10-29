@@ -1,6 +1,6 @@
 <h1 align="center">Hola👋</h1>
 
-<div align="center">
+<div align="left">
 
 <h2>INFORMACIÓN PERSONAL</h2>
 
